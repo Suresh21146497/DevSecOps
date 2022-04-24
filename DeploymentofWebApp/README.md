@@ -1,1 +1,0 @@
-# Deploying React Project using AWS-Amplify
